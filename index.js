@@ -4,7 +4,7 @@
  */
 
 var extend = require('extend');
-var encode = require('entities/encode');
+var encode = require('ent/encode');
 var CustomEvent = require('custom-event');
 var voidElements = require('void-elements');
 
